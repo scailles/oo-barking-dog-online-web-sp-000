@@ -14,5 +14,5 @@ class Dog
     puts "woof!"
   end
   
-  fido=Dog.new
+  fido=Dog.name
 end 

@@ -6,7 +6,7 @@ class Dog
     @this_dogs_name = dog_name
   end
   
-  def name 
+  def self.name 
     @this_dogs_name
   end
   
